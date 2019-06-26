@@ -1,0 +1,16 @@
+{
+    "name": "sahil-ahlawat/custom-php-pagination",
+    "type": "library",
+    "description": "This library gives a prebuilt pagination function, just add correct arguments",
+    "keywords": ["php pagination","php","pagination","custom php pagination"],
+    "homepage": "https://13facts.info",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sahil Ahlawat",
+            "email": "sahilahlawat@gmail.com",
+            "homepage": "http://13facts.info/sahil-ahlawat",
+            "role": "Developer"
+        }
+    ]
+}
