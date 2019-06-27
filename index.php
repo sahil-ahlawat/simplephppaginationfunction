@@ -1,3 +1,16 @@
+<?php
+
+/**
+ * custom_paginate
+ *
+ * @param  mixed $item_per_page
+ * @param  mixed $current_page
+ * @param  mixed $total_records
+ * @param  mixed $total_pages
+ * @param  mixed $page_url
+ *
+ * @return void
+ */
 function custom_paginate($item_per_page, $current_page, $total_records, $total_pages, $page_url)
 {
     $pagination = '';
